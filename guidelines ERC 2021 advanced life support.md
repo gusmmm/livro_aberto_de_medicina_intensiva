@@ -1,0 +1,25 @@
+- [[algortimo de ALS 2021 ERC]]
+	- ![[3.ALS-Algorithms-Advanced-Life-Support.pdf]]
+- grupo de escrita
+	- ![[Pasted image 20210426093403.png]]
+	- [[Jasmeet Soar]]
+		- apresentou o video do ERC
+		- <iframe width="560" height="315" src="https://www.youtube.com/embed/ccxtLwdP2lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	- [[Bernd W Bottiger]]
+	
+- ALS 2021 5 top messages
+	- paragem cardíaca é prenível em muitos doentes
+		- tem sinais e sintomas premonitórios
+			- dor toracica
+			- sincope
+		- menciona usar um early warning score para identificar e tratar doentes com risco aumentado de PCR - associado a rapid response systems
+		- ![[Pasted image 20210426101029.png]]
+	- compressões torácicas de alta qualidade
+		- interrupção mínima
+	- desfibrilação precoce
+	- tratamento das causas reversíveis
+	- usar técnicas de via aérea basicas e avançadas
+		- só quem tem alta taxa de sucesso deve usar intubação orotraqueal
+	- usar adrenalina cedo em paragem cardíaca não chocável
+	- em doentes selecionados, considerar eCPR como terapia de salvação quando o SAV convencional está a falhar
+- ![[ALS-Infographics.pdf]]

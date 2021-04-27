@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca68b0093523470",
+        "id": "7193f6aa835dae5e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "algortimo de ALS 2021 ERC.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cb7de42897dd3cf4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "algortimo de ALS 2021 ERC.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algortimo de ALS 2021 ERC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "algortimo de ALS 2021 ERC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,12 +109,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ca68b0093523470",
+  "active": "7193f6aa835dae5e",
   "lastOpenFiles": [
-    "algortimo de ALS 2021 ERC.md",
+    "sindrome de lise tumoral.md",
+    "Untitled.md",
     "guidelines ERC 2021 advanced life support.md",
     "guidelines ERC 2021.md",
-    "@INICIO.md",
-    "Untitled.md"
+    "@INICIO.md"
   ]
 }
